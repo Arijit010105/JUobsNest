@@ -1,2 +1,2 @@
-# JUobsNest
+# JobsNest
 For Jobs Nest startup
